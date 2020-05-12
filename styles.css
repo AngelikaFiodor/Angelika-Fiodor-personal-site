@@ -1,0 +1,193 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: "Helvetica-neue", Helvetica, verdana, sans-serif;
+  padding-left: 0;
+}
+
+h1{color: white;
+  margin-top: 0;
+ padding-top: 1.5em;
+ padding-left: 0;
+ font-family: 'Sacramento', cursive;
+ font-size: 5em;
+}
+h2 {font-family: 'Sacramento', cursive;
+font-size: 3.5em;}
+h3{  font-family: 'Raleway', sans-serif;
+font-size: 2em;
+
+
+}
+h5 {font-family: 'Raleway', cursive;
+font-style: italic;
+font-size: 1.5em;
+margin: 0;}
+
+p {margin-top: 0;
+;
+font-size:1.5em;
+color: brown;
+}
+
+.angelika {border-radius: 100%}
+
+.top-container {background-color: #F1D1D1;
+  height:700px;}
+
+.pines {position:absolute;
+  height:50%;
+  width: 20%;
+  right: 10px;
+  bottom: 60px;
+  }
+
+.pierwszachmurka {
+  position: absolute;
+  left: 150px;
+top: 100px;}
+
+
+.middle-container {
+  background-color: #F3E1E1;
+
+  height:700px;
+}
+
+
+.pierwszy_blok {height: 160px;
+width: 460px;
+left: 100px;
+bottom: 70px;
+background-color: #F2FAFA;
+float: inherit;
+padding:20px;
+}
+
+.drugi_blok {height: 160px;
+width: 460px;
+left: 0;
+bottom: 30;
+background-color: #F2FAFA;
+float: right;
+padding:20px;
+}
+.rama_pierwszyblok {height: 220px;
+width: 520px;
+left:100px;
+bottom: 150px;
+background-color: #F1D1D1;
+position:relative;
+}
+
+.rama_drugiblok{
+height: 220px;
+width: 520px;
+left:1070px;
+bottom: 370px;
+background-color: #F1D1D1;
+position:relative;
+}
+
+
+
+
+.nice {position: absolute;
+  right: 300px;
+  bottom: 320px;}
+
+
+  .bottom-container {
+    background-color: #F2FAFA;
+    height:730px;
+    position: absolute;
+
+  }
+.dziewczyna {
+height: 50%;
+width: 30%;}
+
+.kurs {color: black;
+  margin-top: 0;
+ padding-top: 1em;
+ padding-left: 0;
+ font-family: 'Sacramento', cursive;
+ font-size: 3em;
+}
+.pomoc {color: black;
+  margin-top: 0;
+ padding-top: 1em;
+  padding-left: 0;
+ font-family: 'Sacramento', cursive;
+ font-size: 3em;}
+
+.zapraszam {
+height:200px;
+background-color: #F2FAFA;
+}
+.zapraszam-font {
+  margin-top:0;
+  position:relative;
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5em;
+  margin-left: 12%;
+  margin-right: 12%;
+  color: green;
+  height:120px;
+  background-color:#F2FAFA;
+}
+.ja {margin-top: 0;
+;
+font-size:1em;
+color: brown;}
+
+.flasks {
+  height: 40%;
+  width: 20%;
+  position: absolute;
+  left: 50px;
+  bottom:70px;
+}
+
+.BUTTON_QER {
+   background: #3DAAF6;
+   background-image: -webkit-linear-gradient(top, #3DAAF6, #811616);
+   background-image: -moz-linear-gradient(top, #3DAAF6, #811616);
+   background-image: -ms-linear-gradient(top, #3DAAF6, #811616);
+   background-image: -o-linear-gradient(top, #3DAAF6, #811616);
+   background-image: linear-gradient(to bottom, #3DAAF6, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 14px;
+   line-height: 14px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   width: 185px;
+   font-size: 20px;
+   font-weight: 900;
+   padding: 12px;
+   box-shadow: 1px 1px 6px 0px #000000;
+   -webkit-box-shadow: 1px 1px 6px 0px #000000;
+   -moz-box-shadow: 1px 1px 6px 0px #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_QER:hover {
+   border: solid #762C2C 1px;
+   background: #3DAAF6;
+   background-image: -webkit-linear-gradient(top, #3DAAF6, #811616);
+   background-image: -moz-linear-gradient(top, #3DAAF6, #811616);
+   background-image: -ms-linear-gradient(top, #3DAAF6, #811616);
+   background-image: -o-linear-gradient(top, #3DAAF6, #811616);
+   background-image: linear-gradient(to bottom, #3DAAF6, #811616);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
